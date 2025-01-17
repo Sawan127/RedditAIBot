@@ -1,0 +1,68 @@
+2025-01-16 16:55:20,379 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 16:55:22,225 - INFO - Successfully posted to r/machinelearningtopic: https://www.reddit.com/r/machinelearningtopic/comments/1i2muas/title_unpacking_the_societal_impact_of_machine/
+2025-01-16 17:02:08,058 - INFO - Scheduled daily post to r/test at 17:03 about 'interesting facts about computer vision'
+2025-01-16 17:03:16,338 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 17:03:18,799 - INFO - Successfully posted to r/test: https://www.reddit.com/r/test/comments/1i2myr1/title_wowza_mindblowing_computer_vision_facts/
+2025-01-16 17:05:20,008 - INFO - Scheduled daily post to r/machinelearningtopic at 17:06 about 'interesting facts about computer vision'
+2025-01-16 17:06:21,674 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 17:06:23,038 - ERROR - Error posting to Reddit: SUBREDDIT_NOTALLOWED: 'This community only allows trusted members to post here' on field 'sr'
+2025-01-16 17:13:01,416 - INFO - Scheduled daily post to r/test at 17:13 about 'interesting projects of computer vision'
+2025-01-16 17:23:16,988 - INFO - Scheduled daily post to r/MachineLearning at 17:25 about 'ML Engineering Evolution: Embracing MLOps for Seamless Machine Learning Operations!'
+2025-01-16 17:39:19,249 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 17:39:19,970 - INFO - Commented on post 'what kind of duck is this ?': https://www.reddit.com/r/test/comments/1i2mk4s/what_kind_of_duck_is_this/
+2025-01-16 17:39:20,329 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 17:39:20,671 - ERROR - Error commenting on posts in r/test: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2025-01-16 18:59:59,200 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 18:59:59,811 - INFO - Commented on post 'what kind of duck is this ?': https://www.reddit.com/r/test/comments/1i2mk4s/what_kind_of_duck_is_this/
+2025-01-16 19:00:00,162 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 19:00:00,544 - ERROR - Error commenting on posts in r/test: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 9 minutes before trying again." on field 'ratelimit'
+2025-01-16 19:02:03,214 - INFO - Scheduled daily post to r/test at 19:00 about 'ML Engineering Evolution: Embracing MLOps for Seamless Machine Learning Operations!'
+2025-01-16 19:02:53,287 - INFO - Scheduled daily post to r/test at 19:03 about 'ML Engineering Evolution: Embracing MLOps for Seamless Machine Learning Operations!'
+2025-01-16 19:30:15,009 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 19:30:16,908 - INFO - Successfully posted to r/test: https://www.reddit.com/r/test/comments/1i2pjpf/title_machine_learning_for_beginners_a_friendly/
+2025-01-16 19:30:17,800 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 19:30:18,492 - INFO - Commented on post 'what kind of duck is this ?': https://www.reddit.com/r/test/comments/1i2mk4s/what_kind_of_duck_is_this/
+2025-01-16 20:20:03,431 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 20:20:05,458 - INFO - Successfully posted to r/test: https://www.reddit.com/r/test/comments/1i2ql4w/title_machine_learning_for_beginners_a_friendly/
+2025-01-16 20:20:06,496 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 20:20:07,109 - INFO - Commented on post 'what kind of duck is this ?': https://www.reddit.com/r/test/comments/1i2mk4s/what_kind_of_duck_is_this/
+2025-01-16 20:34:15,809 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 20:34:17,759 - INFO - Successfully posted to r/test: https://www.reddit.com/r/test/comments/1i2qwmx/title_machine_learning_for_dummies_how_algorithms/
+2025-01-16 20:34:18,631 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 20:34:19,386 - INFO - Commented on post 'Error generating content': https://www.reddit.com/r/test/comments/1i2qsf9/error_generating_content/
+2025-01-16 20:41:23,122 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-16 20:41:24,995 - INFO - Successfully posted to r/test: https://www.reddit.com/r/test/comments/1i2r2ct/title_machine_learning_turning_data_into_magic_in/
+2025-01-17 08:00:07,561 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-17 08:00:09,466 - INFO - Successfully posted to r/test: https://www.reddit.com/r/test/comments/1i368o6/title_machine_learning_turning_data_into_magic_in/
+2025-01-17 08:02:11,275 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-17 08:02:11,954 - INFO - Commented on post 'Test poll. Please vote!': https://www.reddit.com/r/test/comments/1i34x5c/test_poll_please_vote/
+2025-01-17 10:02:18,957 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-17 10:02:50,964 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-17 10:33:28,947 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-17 10:34:13,343 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-17 10:34:15,248 - INFO - Successfully posted to r/test: https://www.reddit.com/r/test/comments/1i390lv/title_cracking_the_machine_learning_interview/
+2025-01-17 10:45:37,537 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-17 10:45:38,207 - INFO - Commented on post 'Test 2': https://www.reddit.com/r/test/comments/1i38e7l/test_2/
+2025-01-17 11:57:35,374 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-17 11:57:37,171 - INFO - Successfully posted to r/test: https://www.reddit.com/r/test/comments/1i3aazc/title_machine_learning_vs_computer_vision_a/
+2025-01-17 12:10:51,440 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-17 12:10:53,297 - INFO - Successfully posted to r/test: https://www.reddit.com/r/test/comments/1i3ahpn/title_got_machine_learning_questions_lets/
+2025-01-17 12:12:54,259 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-17 12:12:54,981 - INFO - Commented on post 'Test 2': https://www.reddit.com/r/test/comments/1i38e7l/test_2/
+2025-01-17 12:44:49,482 - INFO - Scheduler started in the background.
+2025-01-17 12:45:48,032 - INFO - Scheduled post for r/test at 12:47 with topic 'Deep Learning'.
+2025-01-17 12:45:48,032 - INFO - Scheduled comment for r/test at 12:48.
+2025-01-17 12:47:02,045 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-17 12:47:03,849 - INFO - Successfully posted to r/test: https://www.reddit.com/r/test/comments/1i3azd6/title_deep_learning_turning_goofy_pictures_of/
+2025-01-17 12:48:01,309 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-17 12:48:01,911 - INFO - Commented on post 'Test 2': https://www.reddit.com/r/test/comments/1i38e7l/test_2/
+2025-01-17 12:49:04,754 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-17 12:49:05,110 - ERROR - Error commenting on posts in r/test: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 8 minutes before trying again." on field 'ratelimit'
+2025-01-17 12:55:01,097 - INFO - Scheduled post for r/test at 12:10 with topic 'machine learning questions '.
+2025-01-17 12:55:01,097 - INFO - Scheduled comment for r/test at 12:12.
+2025-01-17 12:55:49,252 - INFO - Scheduled post for r/test at 12:56 with topic 'machine learning questions '.
+2025-01-17 12:55:49,252 - INFO - Scheduled comment for r/test at 12:57.
+2025-01-17 12:56:01,167 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-17 12:56:03,013 - INFO - Successfully posted to r/test: https://www.reddit.com/r/test/comments/1i3b3mx/title_got_some_burning_machine_learning_questions/
+2025-01-17 12:57:01,507 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-17 12:57:01,849 - ERROR - Error commenting on posts in r/test: RATELIMIT: "Looks like you've been doing that a lot. Take a break for 1 minute before trying again." on field 'ratelimit'
